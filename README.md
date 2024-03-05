@@ -1,5 +1,5 @@
 # Hr-Analytics-project
-Help an organization improve employee performance and improve employee retention (reduce attriction) by creating interactive dashboard using Excel & Power BI 
+Helped an organization improve employee performance and improve employee retention (reduce attriction) by creating interactive dashboard using Excel & Power BI 
 on client quaries & KPIs requirements to help the HR compare different employee benefits packages.you can see their quaries & KPIs in the below "pptx file".
 
 Client KPI Requirements:
