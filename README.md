@@ -11,8 +11,8 @@ Client KPI Requirements:
 6-Attrition rate Vs Year since last promotion relation.
 
 we where given a raw data set we studied the data & performed required data analysis techniques(cleaning, modeling),
-we analysed data for insights & dicussed on visual implementation collaborating with team members assuring data surety so that we can deliver a meaning full insight for the stakeholders
-we tried to cover some extra insights and worked in a team to solved their KPI's and provided them the solution.
+analysed data for insights & dicussed on visual implementation collaborating with team members resulting in improving efficiency and productivity & assuring data surety 
+to deliver a meaning full insight for the stakeholders and worked in a team to solve KPI's and provided them the solution.
 U can see the final dashboard in the below files "Hr Analytics project using Excel" and "Hr Analytics project using Power BI".
 
 Conclusion :
