@@ -10,8 +10,8 @@ Client KPI Requirements:
 5-Job Role Vs Work life balance,
 6-Attrition rate Vs Year since last promotion relation.
 
-we where given a raw data we studied on it, we performed techniques of data analysis,
-being in a team we dicussed on the KPI's like how we are going to implement them so that we can deliver a meaning full insight for the client queries
+we where given a raw data set we studied the data & performed required data analysis techniques(cleaning, modeling),
+we analysed data for insights & dicussed on visual implementation collaborating with team members assuring data surety so that we can deliver a meaning full insight for the stakeholders
 we tried to cover some extra insights and worked in a team to solved their KPI's and provided them the solution.
 U can see the final dashboard in the below files "Hr Analytics project using Excel" and "Hr Analytics project using Power BI".
 
