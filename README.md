@@ -3,6 +3,7 @@
 
 ##### A company was facing problem regarding the atrition happening in the company, so we solved their buisness problem by finding out why are the attrition happening in the company, what are the major factor on which the attrition are happening in the company, and we also have to come up with the dashboard which would help in retaining the employees and reduce the attrition happening in the company.  
 
+### Transformations
 we where given a raw data set we studied the data & performed required data analysis techniques(cleaning, modeling),
 analysed data for insights & dicussed on visual implementation collaborating with team members resulting in improving efficiency and productivity & assuring data surety 
 to deliver a meaning full insight for the stakeholders and worked in a team to solve KPI's and provided them the solution through dashboard.
