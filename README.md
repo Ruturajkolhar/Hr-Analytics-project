@@ -1,7 +1,7 @@
 # Hr-Analytics-project
-##### Helped an organization improve employee performance and improve employee retention (reduce attriction) by creating interactive dashboard using Excel & Power BI on client quaries & KPIs requirements to help the HR compare different employee benefits packages.
+ Helped an organization improve employee performance and improve employee retention (reduce attriction) by creating interactive dashboard using Excel & Power BI on client quaries & KPIs requirements to help the HR compare different employee benefits packages.
 
-##### A company was facing problem regarding the atrition happening in the company, so we solved their buisness problem by finding out why are the attrition happening in the company, what are the major factor on which the attrition are happening in the company, and we also have to come up with the dashboard which would help in retaining the employees and reduce the attrition happening in the company.  
+ A company was facing problem regarding the atrition happening in the company, so we solved their buisness problem by finding out why are the attrition happening in the company, what are the major factor on which the attrition are happening in the company, and we also have to come up with the dashboard which would help in retaining the employees and reduce the attrition happening in the company.  
 
 ### Transformations
 we where given a raw data set we studied the data & performed required data analysis techniques(cleaning, modeling),
